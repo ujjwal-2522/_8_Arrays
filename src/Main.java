@@ -14,7 +14,7 @@ public class Main {
 
         String[] name;
         name=new String[4];
-        System.out.println(name[0]);
+        System.out.println(name[1]);
 
         for (String element:name){
             System.out.println(Arrays.toString(element));
